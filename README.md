@@ -1,2 +1,1 @@
-# lab4
-https://lowkerson.github.io/lab4/
+lab4 https://lowkerson.github.io/lab4/
